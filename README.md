@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Gourav Bhardwaj 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer+%7C+IT+Support+Pro;Creative+Thinker+%26+Tech+Builder;Lifelong+Learner+%F0%9F%93%9A;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Creative+Thinker+%26+Tech+Builder;Lifelong+Learner+%F0%9F%93%9A;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,13 +48,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravbhardwaj&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravbhardwaj&theme=radical" width="49%"/>
-</p>
 
 ---
 
