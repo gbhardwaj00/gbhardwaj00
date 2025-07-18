@@ -23,14 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on:
-  - **[My Favorite Movies App](https://github.com/gouravbhardwaj/My-Favorite-Movies)** (React + TMDB API)
-  - Internal tools at **Operto Guest Technologies** using **ColdFusion, JavaScript, SQL, and Prefect**
 - 🌱 Exploring:
   - **AWS**, **TypeScript**, **Distributed Systems**
 - 👨‍💻 Tech Stack:
   - `JavaScript`, `Python`, `React`, `Node.js`, `Firebase`, `PostgreSQL`, `SQL Server`, `C++`, `Java`
-- 📚 Projects: [View all repositories »](https://github.com/gouravbhardwaj?tab=repositories)
+- 📚 Projects: [View all repositories »](https://github.com/gbhardwaj00?tab=repositories)
 - 🎓 Graduate in Computing Science from Simon Fraser University (2025)
 - 📷 Passionate about movies, photography, hiking, and building cool things 🚀
 
