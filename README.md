@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **gbhardwaj00/gbhardwaj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 - 🌱 Exploring:
-  - **AWS**, **TypeScript**, **Distributed Systems**
+  - **SpringBoot**, **TypeScript**, **Next.js**, **Distributed Systems**
 - 👨‍💻 Tech Stack:
   - `JavaScript`, `Python`, `React`, `Node.js`, `Firebase`, `PostgreSQL`, `SQL Server`, `C++`, `Java`
 - 📚 Projects: [View all repositories »](https://github.com/gbhardwaj00?tab=repositories)
