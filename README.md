@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 
 ---
 
----
-
 ### 🌍 Let's Connect
 
 <p>
