@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 Exploring:
   - **SpringBoot**, **TypeScript**, **Next.js**, **Distributed Systems**
 - 👨‍💻 Tech Stack:
-  - `JavaScript`, `Python`, `React`, `Node.js`, `Firebase`, `PostgreSQL`, `SQL Server`, `C++`, `Java`
+  - `JavaScript`, `Python`, `Java`, `React`, `Node.js`, `PostgreSQL`, `C++`
 - 📚 Projects: [View all repositories »](https://github.com/gbhardwaj00?tab=repositories)
 - 🎓 Graduate in Computing Science from Simon Fraser University (2025)
 - 📷 Passionate about movies, photography, hiking, and building cool things 🚀
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
